@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.21"
+  },
+  "name": "basic-model-wiew-controller",
+  "description": "Basically Mini Database App",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhysioDyne/Basic-Model-Wiew-Controller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhysioDyne/Basic-Model-Wiew-Controller/issues"
+  },
+  "homepage": "https://github.com/PhysioDyne/Basic-Model-Wiew-Controller#readme"
+}
